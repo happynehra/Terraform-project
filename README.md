@@ -1,4 +1,4 @@
-# Terraform Reusable Module Example
+# Terraform AWS Automation: Reusable Modules for EC2 and Load Balancers
 
 This repository contains a Terraform project that demonstrates how to create reusable modules for managing AWS resources. The project consists of modules for creating an EC2 machine and a load balancer. These modules are then used to deploy an EC2 machine and attach it to the load balancer in the `ec2-tech-test` environment. The project is organized as follows:
 
