@@ -4,7 +4,7 @@ This repository contains a Terraform project that demonstrates how to create reu
 
 ## Directory Structure
 
-![Directory Structure](https://drive.google.com/file/d/1Xa8cdGzLd7fnnW0hgz5gNPoUyCEAUg55/view?usp=sharing)
+![Directory Structure](https://drive.google.com/file/d/1Xa8cdGzLd7fnnW0hgz5gNPoUyCEAUg55/view?usp=drive_link)
 
 ## Reusable Modules
 
